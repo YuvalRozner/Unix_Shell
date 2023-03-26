@@ -38,7 +38,7 @@ To compile and run MyShell program, you will need:
 To install MyShell program, simply clone the GitHub repository and compile the program:
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/YuvalRozner/Unix_Shell
 $ cd YOUR-REPOSITORY
 $ gcc -o MyShell MyShell.c
 ```
