@@ -39,10 +39,6 @@ To install MyShell program, simply clone the GitHub repository and compile the p
 
 ```
 $ git clone https://github.com/YuvalRozner/Unix_Shell
-$ cd YOUR-REPOSITORY
+$ cd Unix_Shell
 $ gcc -o MyShell MyShell.c
 ```
-
-
-## License
-This program is licensed under the MIT License. See the LICENSE file for details.
